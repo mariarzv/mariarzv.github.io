@@ -442,7 +442,7 @@ img {
 /* ===== SPACERS =====*/
 
 .spacer {
-  height: 2rem;
+  height: 3rem;
 }
 
 .spacer-sm {
@@ -450,11 +450,11 @@ img {
 }
 
 .spacer-lg {
-  height: 3rem;
+  height: 4rem;
 }
 
 .spacer-xl {
-  height: 4rem;
+  height: 6rem;
 }
 
 /* ===== MEDIA QUERIES=====*/
