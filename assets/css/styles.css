@@ -320,8 +320,8 @@ img {
   z-index: var(--z-back);
 }
 
-.skills__csharp {
-  width: 90%;
+.skills__python {
+  width: 99%;
 }
 
 .skills__cpp {
@@ -329,11 +329,11 @@ img {
 }
 
 .skills__ml {
-  width: 65%;
+  width: 90%;
 }
 
 .skills__3d {
-  width: 95%;
+  width: 99%;
 }
 
 .skills__img {
