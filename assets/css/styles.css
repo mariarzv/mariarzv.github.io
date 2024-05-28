@@ -439,6 +439,24 @@ img {
   font-size: var(--smaller-font-size);
 }
 
+/* ===== SPACERS =====*/
+
+.spacer {
+  height: 2rem;
+}
+
+.spacer-sm {
+  height: 1rem;
+}
+
+.spacer-lg {
+  height: 3rem;
+}
+
+.spacer-xl {
+  height: 4rem;
+}
+
 /* ===== MEDIA QUERIES=====*/
 @media screen and (max-width: 320px) {
   .home {
