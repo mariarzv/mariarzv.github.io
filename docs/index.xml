@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Maria Razzhivina</title>
+    <link>https://mariarzv.github.io/</link>
+    <description>Recent content on Maria Razzhivina</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mariarzv.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paper Example 1</title>
+      <link>https://mariarzv.github.io/publications/paperxraycv/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mariarzv.github.io/publications/paperxraycv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paper Example 1</title>
+      <link>https://mariarzv.github.io/publications/paperxrayij/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mariarzv.github.io/publications/paperxrayij/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobile Robot Builder</title>
+      <link>https://mariarzv.github.io/projects/projectmob/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://mariarzv.github.io/projects/projectmob/</guid>
+      <description>&lt;h2 id=&#34;at-roboticplus-in-shanghai-one-of-the-most-memorable-projects-was-development-of-a-mobile-platform-based-robotic-arm-assembly-for-construction-tasks-we-focused-on-integrating-slam-and-computer-vision-systems-to-improve-fabrication-precision-we-also-integrated-stereo-vision-for-precise-3d-mapping-and-merged-2d-data-with-lidar-for-enhanced-perception-ros-was-instrumental-in-ensuring-seamless-communication-and-efficient-operation-planning&#34;&gt;At RoboticPlus in Shanghai, one of the most memorable projects was development of a mobile platform-based robotic arm assembly for construction tasks. We focused on integrating SLAM and computer vision systems to improve fabrication precision. We also integrated stereo vision for precise 3D mapping and merged 2D data with LIDAR for enhanced perception. ROS was instrumental in ensuring seamless communication and efficient operation planning.&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://mariarzv.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mariarzv.github.io/about/</guid>
+      <description>&lt;h2 id=&#34;i-am-currently-researching-3d-computer-vision-robotics-navigation-and-human-robot-interaction-with-recent-focus-on-emotion-understanding&#34;&gt;I am currently researching 3D computer vision, robotics navigation, and human-robot interaction, with recent focus on emotion understanding.&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
