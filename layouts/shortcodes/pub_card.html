@@ -1,0 +1,10 @@
+<div class="card" style="transition: all 0.3s ease; transform-origin: center; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+  <a href="{{ .Get "link" }}">
+    <img src="{{ .Get "image" }}" alt="{{ .Get "title" }}" style="width: 100%; border-radius: 0.5rem;">
+    <div class="card-body">
+      <h3>{{ .Get "title" }}</h3>
+      <p><strong>{{ .Get "venue" }}</strong></p>
+      <p>{{ .Get "description" }}</p>
+    </div>
+  </a>
+</div>
