@@ -1,0 +1,16 @@
+<div class="pub-card">
+  <div class="pub-card-image">
+    <img src="{{ .Get "image" }}" alt="{{ .Get "title" }}" class="light-img" />
+    {{ with .Get "dark_image" }}
+      <img src="{{ . }}" alt="{{ $.Get "title" }} (dark mode)" class="dark-img" />
+    {{ end }}
+  </div>
+  <div class="pub-card-text">
+    <h3 class="pub-card-title">{{ .Get "title" }}</h3>
+    <p class="pub-card-description">{{ .Get "description" }}</p>
+	<div class="pub-card-footer">
+		<a href="{{ .Get "link" }}" class="pub-card-button">View Project Page</a>
+		<span class="pub-card-venue">{{ .Get "venue" }}</span>
+	</div>
+  </div>
+</div>

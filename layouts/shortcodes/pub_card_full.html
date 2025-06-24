@@ -1,0 +1,15 @@
+<div class="pub-card-full">
+  <a href="{{ .Get "link" }}" class="pub-card-full-link">
+    <div class="pub-card-full-image">
+      <img src="{{ .Get "image" }}" alt="{{ .Get "title" }}">
+    </div>
+    <div class="pub-card-full-text">
+      <h3 class="pub-card-full-title">{{ .Get "title" }}</h3>
+      <p class="pub-card-full-description">{{ .Get "description" }}</p>
+	  <div class="pub-card-footer">
+		<button class="pub-card-button">View Project</button>
+		<span class="pub-card-venue">{{ .Get "venue" }}</span>
+	  </div>
+    </div>
+  </a>
+</div>

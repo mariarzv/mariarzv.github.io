@@ -1,0 +1,46 @@
+baseURL = "https://mariarzv.github.io/"
+languageCode = "en-us"
+title = "Maria Razzhivina"
+theme = "PaperMod"
+
+[params.profileMode]
+  author = "Maria Razzhivina"
+  description = "AI Research and Software Engineering"
+  defaultTheme = "auto"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  disableSpecial1stPost = true
+  disableScrollToTop = false
+  hideSummary = true
+  disableAnchoredHeadings = true
+  ShowPostNavLinks = false
+
+  profileMode = true
+  profileModeTitle = "Maria Razzhivina"
+  profileModeSubtitle = "AI Research and Software Engineering"
+  profileModeImage = "images/avatar.png"
+
+  ShowCodeCopyButtons = true
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+
+[[menu.main]]
+  identifier = "research"
+  name = "Research"
+  url = "/research/"
+
+[[menu.main]]
+  identifier = "industry"
+  name = "Industry Experience"
+  url = "/industry/"
+
+[[menu.main]]
+  identifier = "news"
+  name = "News"
+  url = "/news/"
+
+[params.assets]
+  css = ["css/custom.css"]
