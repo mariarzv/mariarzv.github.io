@@ -5,7 +5,7 @@ theme = "PaperMod"
 
 [params.profileMode]
   author = "Maria Razzhivina"
-  description = "AI Research and Consulting"
+  description = "AI Research and Software Engineering"
   defaultTheme = "auto"
   ShowReadingTime = false
   ShowShareButtons = false
@@ -17,7 +17,7 @@ theme = "PaperMod"
 
   profileMode = true
   profileModeTitle = "Maria Razzhivina"
-  profileModeSubtitle = "AI Research and Consulting"
+  profileModeSubtitle = "AI Research and Software Engineering"
   profileModeImage = "images/avatar.png"
 
   ShowCodeCopyButtons = true
@@ -28,14 +28,14 @@ theme = "PaperMod"
   url = "/about/"
 
 [[menu.main]]
-  identifier = "publications"
-  name = "Publications"
-  url = "/publications/"
+  identifier = "research"
+  name = "Research"
+  url = "/research/"
 
 [[menu.main]]
-  identifier = "projects"
-  name = "Projects"
-  url = "/projects/"
+  identifier = "industry"
+  name = "Industry Experience"
+  url = "/industry/"
 
 [[menu.main]]
   identifier = "news"
