@@ -7,7 +7,7 @@ title: "Publications"
     venue="CVPR 2024"
     image="/images/xraycv.png"
     description="The paper addresses the challenges of sparsity and occlusion in LiDAR-based 3D object detection"
-    link="/publications/xraycv"
+    link="https://openaccess.thecvf.com/content/CVPR2024/papers/Gambashidze_Weak-to-Strong_3D_Object_Detection_with_X-Ray_Distillation_CVPR_2024_paper.pdf"
 >}}
 
 {{< pub_card_full
@@ -15,7 +15,7 @@ title: "Publications"
     venue="IJCAI 2024"
     image="/images/xrayij.png"
     description="Knowledge distillation for supervised learning"
-    link="/publications/xrayij"
+    link="https://www.ijcai.org/proceedings/2024/1001"
 >}}
 
 {{< pub_card_full
